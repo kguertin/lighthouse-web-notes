@@ -7,3 +7,4 @@ This repository contains all of the notes taken by [Kevin](https://github.com/kg
 ## Table of Contents
 * [Week 1](/week_1)
   * [Day 1](/week_1/day_1)
+  * [Day 2](/week_1/day_2)
